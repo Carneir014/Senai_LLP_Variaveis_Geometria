@@ -27,6 +27,7 @@
 # Calcular a área da Pirâmide
 (X) Criar condição caso o usuário não digite o número suficiente de argumentos
 (X) Criar variáveis lado e apótema
+(X) Ler lado e apótema via argumentos
 (X) Calcular a área da base
 (X) Calcular o perímetro da pirâmide
 (X) Calcular área lateral
@@ -35,9 +36,17 @@
 -----------------------------------------------------------------------------------
 # Calcular a área do Tubo
 (X) Criar condição caso o usuário não digite o número suficiente de argumentos
+(X) Ler raio e altura via argumentos
 (X) Criar as variáveis raio e altura
 (X) Calcular a área lateral do Tubo
 (X) Calcular a área das bases
 (X) Calcular a área total do Tubo
 (X) Mostrar a área total do Tubo
+----------------------------------------------------------------------------------
+# Calcular a área da Bola
+(X) Cria uma condição para caso o usuário não digite o número suficiente de argumentos.
+(X) Criar a variável raio.
+(X) Ler raio via argumentos.
+(X) Calcular a área da bola.
+() Mostrar a área da bola.
 
