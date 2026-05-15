@@ -11,7 +11,13 @@
 (X) Mostrar a área do triângulo.
 ---------------------------------------------------------------------------
 # Calcular área do circulo
-() Criar variáveis raio e area  
-() Ler raio via argumentos.
-() Calcular a area do circulo.
-() Mostrar a área do circulo.
+(X) Criar variáveis raio e area  
+(X) Ler raio via argumentos.
+(X) Calcular a area do circulo.
+(X) Mostrar a área do circulo.
+------------------------------------------------------------------------------
+# Calcular área da caixa
+(X) Criar variáveis largura, comprimento, altura
+(X) Ler comprimento, altura e largura via argumentos
+(X) Calcular a área da caixa
+(X) Mostrar a área da caixa
